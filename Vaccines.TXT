@@ -1,0 +1,5 @@
+Covid-V001,AstraZeneca
+Covid-V002,SputnikV
+Covid-V003,VeroCell
+Covid-V004,Pfizer
+Covid-V005,Moderna

@@ -1,0 +1,5 @@
+SE001,Nguyen Van A,Covid-V001,HCM,2021-08-08,HCM,2021-09-10
+SE002,Tran Thi B,Covid-V003,Da Nang,2021-08-10,null,null
+SE003,Nguyen Thi C,Covid-V004,Thai Binh,2021-08-10,null,null
+SE004,Ngo Hoang D,Covid-V005,Ha Nam,2021-09-08,HCM,2021-10-10
+SE005,Ha Thi E,Covid-V002,Bac Giang,2021-09-09,Bac Giang,2021-10-11
